@@ -5,4 +5,13 @@
     <color name="colorAccent">#FF4081</color>
     <color name="screen">#3ab7aa</color>
     <color name="textname">#f50000</color>
+
+    <color name="summer">#44eebd82</color>
+    <color name="fall">#44d8d27e</color>
+    <color name="winter">#44a1c1da</color>
+    <color name="spring">#ededf2</color>
+    <color name="checkin_suspension">#f00</color>
+    <color name="color_light_blue">#0082C3</color>
+    <color name="grid_row_bg">#ffffff</color>
+    <color name="today">#1256f2</color>
 </resources>
